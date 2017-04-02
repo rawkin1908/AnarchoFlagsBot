@@ -1,8 +1,10 @@
 ## Installation
 
-You need to have [NodeJS installed](https://nodejs.org)
+You need to have the following installed:
+* [NodeJS](https://nodejs.org)
+* [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-Paste the following in your terminal:
+Paste the following in your command line:
 
 ```
 git clone https://github.com/rawkin1908/AnarchoFlagsBot
@@ -12,12 +14,15 @@ npm install
 
 ## Configuration
 
-Edit `users.json` to add your usernames and passwords
+* Edit `users.json` to add your usernames and passwords
 to your reddit accounts and all your throwaways.
+
+* The script looks a file called `target.bmp`. Depending on what you want to defend (hammer & sickle and party parrot,
+ancom flags, or rojava flag) modify the appropriate file name to to `target.bmp`
 
 ## Usage
 
-Paste the following in your terminal:
+Paste the following in your command line:
 
 ```
   npm run start
