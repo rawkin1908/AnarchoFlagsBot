@@ -13,9 +13,11 @@ npm install
 ## Configuration
 
 Edit `users.json` to add your usernames and passwords
-of your account and all your throwaways.
+to your reddit accounts and all your throwaways.
 
 ## Usage
+
+Paste the following in your terminal:
 
 ```
   npm run start
