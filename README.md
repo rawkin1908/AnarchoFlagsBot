@@ -18,7 +18,7 @@ npm install
 to your reddit accounts and all your throwaways.
 
 * The script looks a file called `target.bmp`. Depending on what you want to defend (hammer & sickle and party parrot,
-ancom flags, or rojava flag) modify the appropriate file name to to `target.bmp`
+ancom flags, or rojava flag) modify the appropriate BMP's file name to `target.bmp`
 
 ## Usage
 
