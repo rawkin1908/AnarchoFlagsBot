@@ -12,7 +12,7 @@ npm install
 
 ## Configuration
 
-Change `users.example.json` to `users.json` and add your usernames and passwords
+Edit `users.json` to add your usernames and passwords
 of your account and all your throwaways.
 
 ## Usage
