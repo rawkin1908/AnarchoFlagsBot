@@ -4,6 +4,7 @@ You need to have the following installed:
 * [NodeJS](https://nodejs.org)
 * [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
+Open your command line (windows: Win+R, mac: open Launchpad and search `terminal`). 
 Paste the following in your command line:
 
 ```
