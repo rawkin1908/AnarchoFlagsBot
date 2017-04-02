@@ -16,7 +16,7 @@ npm install
 ## Configuration
 
 * Edit `users.json` to add your usernames and passwords
-to your reddit accounts and all your throwaways.
+to your reddit accounts and all your throwaways. You may add as many accounts as you'd like.
 
 * The script looks a file called `target.bmp`. Depending on what you want to defend (hammer & sickle and party parrot,
 ancom flags, or rojava flag) modify the appropriate BMP's file name to `target.bmp`
