@@ -22,10 +22,10 @@ to your reddit accounts and all your throwaways. You may add as many accounts as
 ancom flags, or rojava flag) modify the appropriate BMP's file name to `target.bmp`
 
 ## Bitmap files
-* Hammer-Sickle-target.bmp: Hammer & Sickle
-* Party-Parrot-target.bmp: Party Parrot
-* Rojava-target.bmp: Rojava flag
-* HS-PartyParrot-target.bmp: Hammer & Sickle and Party Parrot
+* `Hammer-Sickle-target.bmp`: Hammer & Sickle
+* `Party-Parrot-target.bmp`: Party Parrot
+* `Rojava-target.bmp`: Rojava flag
+* `HS-PartyParrot-target.bmp`: Hammer & Sickle and Party Parrot
 
 ## Usage
 
