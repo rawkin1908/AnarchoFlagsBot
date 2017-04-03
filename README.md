@@ -15,11 +15,20 @@ npm install
 
 ## Configuration
 
-* Edit `users.json` to add your usernames and passwords
-to your reddit accounts and all your throwaways. You may add as many accounts as you'd like.
+* The script looks for a file called `target.bmp`. Depending on what you want to defend (hammer & sickle,
+party parrot, or rojava flag) modify the appropriate BMP's file name to `target.bmp`
 
-* The script looks for a file called `target.bmp`. Depending on what you want to defend (hammer & sickle and party parrot,
-ancom flags, or rojava flag) modify the appropriate BMP's file name to `target.bmp`
+* Edit `users.json` to add your reddit usernames and passwords. You may add as many accounts as you'd like, just separate them by commas. Pay close attention to the formatting in this file, particularly the quotation marks, colons and commas. Note there is no comma after the final username/password combo:
+
+``` 
+{
+  "Username1": "Password1",
+  "Username2": "Password2",
+  "Username3": "Password3"
+}
+```
+
+
 
 ## Bitmap files
 * `Hammer-Sickle-target.bmp`: Hammer & Sickle
