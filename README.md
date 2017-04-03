@@ -62,6 +62,12 @@ UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 2):
 Solution:
 * Delete all mock user information from `users.json` and `queues.json`. Make sure these files contain only the information for reddit accounts that are confirmed to work.
 
+Error message:
+```
+SyntaxError: C:\AnarchoFlagsBot\users.json: Unexpected token Y in JSON at position 19 at Object.parse (native) at Object.Module._extensions..json
+```
+Solution:
+* Punctuation characters in your password have shown to be problematic. I suggest to change the user's reddit password to only include alpha-numeric characters
 
 ## TODO:
 * Add bmp for FALGSC
