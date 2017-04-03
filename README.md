@@ -67,7 +67,7 @@ Error message:
 SyntaxError: C:\AnarchoFlagsBot\users.json: Unexpected token Y in JSON at position 19 at Object.parse (native) at Object.Module._extensions..json
 ```
 Solution:
-* Punctuation characters in your password have shown to be problematic. I suggest to change the user's reddit password to only include alpha-numeric characters
+* Punctuation characters in a user's password have shown to be problematic. I suggest to change the user's reddit password to only include alpha-numeric characters
 
 ## TODO:
 * Add bmp for FALGSC
