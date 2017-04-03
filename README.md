@@ -42,6 +42,17 @@ wait until something breaks and fix it.
 ## Bug Reporting
 Send PM to /u/ZombieJohnBrown with the error message and coordinates of the error (if applicable)
 
+## Common Errors and their Solutions
+
+Error message:
+```
+UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 2): 
+  TypeError: Cannot read property 'modhash' of undefined
+```
+Solution:
+* Delete all mock user information from `users.json` and `queues.json`. Make sure these files contain only the information for reddit accounts that are confirmed to work.
+
+
 ## TODO:
 * Add bmp for FALGSC
 * Bash the fash?
